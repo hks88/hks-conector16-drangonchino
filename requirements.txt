@@ -1,0 +1,5 @@
+Pillow
+pyserial
+python-socketio
+hypercorn
+pywin32

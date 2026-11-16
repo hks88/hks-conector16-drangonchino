@@ -1,0 +1,46 @@
+[
+  {
+    "fixture": "connector-5.1.9/frontend.py",
+    "sha256": "3d1237c05f9a9adc052ac551958b339e5f5d090943be3c5a9644005fcaebfc0b"
+  },
+  {
+    "fixture": "connector-5.1.9/order_process.py",
+    "sha256": "7499a78b8df438d5a410bf1edbd278b0b797874730047c18924fac8abb0d36a1"
+  },
+  {
+    "fixture": "connector-5.1.9/order_return.py",
+    "sha256": "7b23a7dee41f0e31f64d0fea3eb538ff1e64428086f0a4f6608a9af13330910e"
+  },
+  {
+    "fixture": "connector-5.2.1/fiscal_sequence.py",
+    "sha256": "4c02d0ff9c8a43c037a43eab7383655d1105b43df86c3f8321f44f4eddbf8f4e"
+  },
+  {
+    "fixture": "odoo-4.0/fisc_connect.js",
+    "sha256": "9727ac00b8332edf0af16290867d8189b3caef5a663354bb1b5e0bd2d0506dca"
+  },
+  {
+    "fixture": "odoo-4.1.1/fisc_connect.js",
+    "sha256": "547fc686528d4b0cba5b3ef7dc50be1a110ee86d006901694a774ac226785e31"
+  },
+  {
+    "fixture": "odoo-4.1.1/fiscal_protocol.js",
+    "sha256": "f0c9139d669b73c36782bffaafd106c5f5cf29cf32f963cdcba731577c4d3031"
+  },
+  {
+    "fixture": "odoo-4.1.5/models/pos_fiscal_identity.py",
+    "sha256": "e26433f6561725004eca66542f08f3609863dd4d7cfaee8c00da3d81f1c0b366"
+  },
+  {
+    "fixture": "odoo-4.1.5/migrations/16.0.4.1.2/post-migration.py",
+    "sha256": "3da7c9449a61686de21b0a6342b941cda681db5d04eb16b7b431be8421dec567"
+  },
+  {
+    "fixture": "odoo-4.1.5/static/src/js/fisc_connect.js",
+    "sha256": "9718f058bf619fd1666c30bda81c87d51965f5945894b46d671a22db30541b52"
+  },
+  {
+    "fixture": "odoo-4.1.5/static/src/js/fiscal_protocol.js",
+    "sha256": "bcd8bfe2dd2e5bff9485775d6331f064e774ba2f9014bef79cc7790bc1770d95"
+  }
+]
